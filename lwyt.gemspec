@@ -1,10 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'lwyt/version'
+require 'landingman-lwyt/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "lwyt"
+  spec.name          = "landingman-lwyt"
   spec.version       = Lwyt::VERSION
   spec.authors       = ["Matt Snider"]
   spec.email         = ["matt@cleanenergyexperts.com"]
