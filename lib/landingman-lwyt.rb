@@ -1,4 +1,4 @@
-require "lwyt/version"
+require "landingman-lwyt/version"
 
 module Lwyt
   # Your code goes here...
